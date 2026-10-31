@@ -77,7 +77,8 @@ You can change the email address associated with commits you make in a single re
 
    ```shell
    $ git config user.email
-   email@example.com
+   piotrpan1989@gmail.com
+
    ```
 
 1. {% data reusables.user-settings.link_email_with_your_account %}
