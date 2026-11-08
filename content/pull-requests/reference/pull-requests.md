@@ -79,7 +79,7 @@ You do not need permission from the upstream repository to push to a fork you cr
 In the shared repository model, collaborators have push access to a single shared repository and create topic branches when they need to make changes. Pull requests are useful in this model because they start code review and general discussion about a set of changes before the changes are merged into the main development branch. This model is more common with small teams and organizations collaborating on private projects.
 
 ## Further reading
-
+        https://github.com/github/docs/pull/46842#issue-6223163098
 * [AUTOTITLE](/pull-requests/how-tos/create-pull-requests/creating-a-pull-request)
 * [AUTOTITLE](/pull-requests/reference/branches)
 * [AUTOTITLE](/pull-requests/how-tos/review-pull-requests/commenting-on-a-pull-request)
